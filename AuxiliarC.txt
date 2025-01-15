@@ -1,0 +1,96 @@
+1;Activos;0;1;0;Activo;25/08/2023;18:56:21;0.0;0.0;0.0
+2;Pasivos;0;1;0;Pasivo;17/08/2023;12:21:34;0.0;0.0;0.0
+11;Activos Circulantes;0;2;1;Activo;17/08/2023;12:40:59;0.0;0.0;0.0
+1101;Efectivo en Caja;0;3;11;Activo;17/08/2023;12:22:27;0.0;0.0;0.0
+11021;Banco Popular Dominicano;1;4;1102;Activo;17/08/2023;12:22:57;600.0;10000.0;-9400.0
+11022;Banco BHD;1;4;1102;Activo;17/08/2023;12:23:29;11000.0;0.0;11000.0
+1102;Efectivo en Bancos;0;3;11;Activo;17/08/2023;12:39:05;0.0;0.0;0.0
+11025;Cuenta de Nomina;1;4;1102;Activo;17/08/2023;12:39:43;0.0;0.0;0.0
+11051;Cuentas Por Cobrar (Interfaz);1;3;11;Activo;17/08/2023;12:41:14;0.0;0.0;0.0
+2101;Cuentas por Pagar Interfaz;1;3;21;Pasivo;23/08/2023;21:21:48;0.0;0.0;0.0
+2102;Cuentas por pagar Proveedores;1;3;21;Pasivo;23/08/2023;21:22:24;0.0;10000.0;10000.0
+21;Pasivos a Corto Plazo;0;2;2;Pasivo;23/08/2023;21:22:56;0.0;0.0;0.0
+3;Capital;0;1;0;Capital;23/08/2023;21:23:51;0.0;0.0;0.0
+31;Capital Invertido;0;2;3;Capital;23/08/2023;21:25:17;0.0;0.0;0.0
+3101;Capital Social;1;3;31;Capital;23/08/2023;21:25:47;0.0;0.0;0.0
+32;Utilidades del Periodo;0;2;3;Capital;23/08/2023;21:26:46;0.0;0.0;0.0
+3102;Dividendos;1;3;31;Capital;23/08/2023;21:27:14;0.0;0.0;0.0
+4;Ingresos;0;1;0;Ingresos;23/08/2023;21:27:47;0.0;0.0;0.0
+41;Ingresos por Servicios-Interfaz;1;3;41;Ingresos;23/08/2023;21:28:30;0.0;0.0;0.0
+42;Otros Ingresos;0;2;4;Ingresos;23/08/2023;21:29:25;0.0;0.0;0.0
+5;Gastos;0;1;0;Gastos;23/08/2023;21:31:35;0.0;0.0;0.0
+52;Gastos Generales y Administrativos;0;2;5;Gastos;23/08/2023;21:33:35;0.0;0.0;0.0
+5201;Nomina;0;3;52;Gastos;23/08/2023;21:34:06;0.0;0.0;0.0
+520111;Gastos de sueldos Empleados;1;5;52011;Gastos;23/08/2023;21:45:11;10000.0;600.0;9400.0
+520112;Incentivos;1;5;52011;Gastos;23/08/2023;21:36:12;0.0;0.0;0.0
+520121;Seguro Medico y Dental;1;5;52012;Gastos;23/08/2023;21:37:19;0.0;0.0;0.0
+52012;Beneficios a los Empleados;0;4;5201;Gastos;23/08/2023;21:38:34;0.0;0.0;0.0
+11011;Caja Chica;1;4;1101;Activo;25/08/2023;18:57:31;0.0;0.0;0.0
+11023;Banco Santa Cruz;1;4;1102;Activo;25/08/2023;18:58:09;0.0;0.0;0.0
+11026;Cuenta de Ahorros;1;4;1102;Activo;25/08/2023;18:59:08;0.0;0.0;0.0
+1103;Fondos en Caja;0;3;11;Activo;25/08/2023;18:59:36;0.0;0.0;0.0
+11031;Fondo para Caja Registradora;1;4;1103;Activo;25/08/2023;19:00:04;0.0;0.0;0.0
+1104;Valores Negociables;0;3;11;Activo;25/08/2023;19:00:24;0.0;0.0;0.0
+11041;Depositos a Plazo Fijo;1;4;1104;Activo;25/08/2023;19:00:49;0.0;0.0;0.0
+11042;Intereses Por Cobrar;1;4;1104;Activo;25/08/2023;19:01:18;0.0;0.0;0.0
+1105;Cuentas Por Cobrar;0;3;11;Activo;25/08/2023;19:01:39;0.0;0.0;0.0
+11052;Cuentas por Cobrar Clientes;1;4;1105;Activo;25/08/2023;19:02:10;0.0;0.0;0.0
+11053;Cuentas por Cobrar Empleados;1;4;1105;Activo;25/08/2023;19:02:36;0.0;0.0;0.0
+11054;Cuentas Por cobrar Funcionarios;1;4;1105;Activo;25/08/2023;19:02:58;0.0;0.0;0.0
+11055;Recervas para cuentas dudosas;1;4;1105;Activo;25/08/2023;19:03:24;0.0;0.0;0.0
+1106;Materiales e Insumos;0;3;11;Activo;25/08/2023;19:03:53;0.0;0.0;0.0
+11061;Materiales de Oficina;1;4;1106;Activo;25/08/2023;19:04:17;0.0;0.0;0.0
+2103;Proviciones Por pagar;0;3;21;Pasivo;25/08/2023;19:07:51;0.0;0.0;0.0
+210301;Provicion para Salario de Navidad;1;4;2103;Pasivo;25/08/2023;19:08:27;0.0;0.0;0.0
+210303;Provicion para Prestaciones Laborales;1;4;2103;Pasivo;25/08/2023;19:09:10;0.0;0.0;0.0
+210304;Provicion por Bonificacion;1;4;2103;Pasivo;25/08/2023;19:09:36;0.0;0.0;0.0
+210305;Proviciones ISR;1;4;2103;Pasivo;25/08/2023;19:10:07;0.0;0.0;0.0
+3201;Utilidades del retenidas;1;3;32;Capital;25/08/2023;19:11:40;0.0;0.0;0.0
+1;Activos;0;1;0;Activo;25/08/2023;18:56:21;0.0;0.0;0.0
+2;Pasivos;0;1;0;Pasivo;17/08/2023;12:21:34;0.0;0.0;0.0
+11;Activos Circulantes;0;2;1;Activo;17/08/2023;12:40:59;0.0;0.0;0.0
+1101;Efectivo en Caja;0;3;11;Activo;17/08/2023;12:22:27;0.0;0.0;0.0
+11021;Banco Popular Dominicano;1;4;1102;Activo;17/08/2023;12:22:57;600.0;10000.0;-9400.0
+11022;Banco BHD;1;4;1102;Activo;17/08/2023;12:23:29;10000.0;0.0;10000.0
+1102;Efectivo en Bancos;0;3;11;Activo;17/08/2023;12:39:05;0.0;0.0;0.0
+11025;Cuenta de Nomina;1;4;1102;Activo;17/08/2023;12:39:43;0.0;0.0;0.0
+11051;Cuentas Por Cobrar (Interfaz);1;3;11;Activo;17/08/2023;12:41:14;0.0;0.0;0.0
+2101;Cuentas por Pagar Interfaz;1;3;21;Pasivo;23/08/2023;21:21:48;0.0;1000.0;1000.0
+2102;Cuentas por pagar Proveedores;1;3;21;Pasivo;23/08/2023;21:22:24;0.0;10000.0;10000.0
+21;Pasivos a Corto Plazo;0;2;2;Pasivo;23/08/2023;21:22:56;0.0;0.0;0.0
+3;Capital;0;1;0;Capital;23/08/2023;21:23:51;0.0;0.0;0.0
+31;Capital Invertido;0;2;3;Capital;23/08/2023;21:25:17;0.0;0.0;0.0
+3101;Capital Social;1;3;31;Capital;23/08/2023;21:25:47;0.0;0.0;0.0
+32;Utilidades del Periodo;0;2;3;Capital;23/08/2023;21:26:46;0.0;0.0;0.0
+3102;Dividendos;1;3;31;Capital;23/08/2023;21:27:14;0.0;0.0;0.0
+4;Ingresos;0;1;0;Ingresos;23/08/2023;21:27:47;0.0;0.0;0.0
+41;Ingresos por Servicios-Interfaz;1;3;41;Ingresos;23/08/2023;21:28:30;0.0;0.0;0.0
+42;Otros Ingresos;0;2;4;Ingresos;23/08/2023;21:29:25;0.0;0.0;0.0
+5;Gastos;0;1;0;Gastos;23/08/2023;21:31:35;0.0;0.0;0.0
+52;Gastos Generales y Administrativos;0;2;5;Gastos;23/08/2023;21:33:35;0.0;0.0;0.0
+5201;Nomina;0;3;52;Gastos;23/08/2023;21:34:06;0.0;0.0;0.0
+520111;Gastos de sueldos Empleados;1;5;52011;Gastos;23/08/2023;21:45:11;10000.0;600.0;9400.0
+520112;Incentivos;1;5;52011;Gastos;23/08/2023;21:36:12;0.0;0.0;0.0
+520121;Seguro Medico y Dental;1;5;52012;Gastos;23/08/2023;21:37:19;0.0;0.0;0.0
+52012;Beneficios a los Empleados;0;4;5201;Gastos;23/08/2023;21:38:34;0.0;0.0;0.0
+11011;Caja Chica;1;4;1101;Activo;25/08/2023;18:57:31;0.0;0.0;0.0
+11023;Banco Santa Cruz;1;4;1102;Activo;25/08/2023;18:58:09;0.0;0.0;0.0
+11026;Cuenta de Ahorros;1;4;1102;Activo;25/08/2023;18:59:08;0.0;0.0;0.0
+1103;Fondos en Caja;0;3;11;Activo;25/08/2023;18:59:36;0.0;0.0;0.0
+11031;Fondo para Caja Registradora;1;4;1103;Activo;25/08/2023;19:00:04;0.0;0.0;0.0
+1104;Valores Negociables;0;3;11;Activo;25/08/2023;19:00:24;0.0;0.0;0.0
+11041;Depositos a Plazo Fijo;1;4;1104;Activo;25/08/2023;19:00:49;0.0;0.0;0.0
+11042;Intereses Por Cobrar;1;4;1104;Activo;25/08/2023;19:01:18;0.0;0.0;0.0
+1105;Cuentas Por Cobrar;0;3;11;Activo;25/08/2023;19:01:39;0.0;0.0;0.0
+11052;Cuentas por Cobrar Clientes;1;4;1105;Activo;25/08/2023;19:02:10;0.0;0.0;0.0
+11053;Cuentas por Cobrar Empleados;1;4;1105;Activo;25/08/2023;19:02:36;0.0;0.0;0.0
+11054;Cuentas Por cobrar Funcionarios;1;4;1105;Activo;25/08/2023;19:02:58;0.0;0.0;0.0
+11055;Recervas para cuentas dudosas;1;4;1105;Activo;25/08/2023;19:03:24;0.0;0.0;0.0
+1106;Materiales e Insumos;0;3;11;Activo;25/08/2023;19:03:53;0.0;0.0;0.0
+11061;Materiales de Oficina;1;4;1106;Activo;25/08/2023;19:04:17;0.0;0.0;0.0
+2103;Proviciones Por pagar;0;3;21;Pasivo;25/08/2023;19:07:51;0.0;0.0;0.0
+210301;Provicion para Salario de Navidad;1;4;2103;Pasivo;25/08/2023;19:08:27;0.0;0.0;0.0
+210303;Provicion para Prestaciones Laborales;1;4;2103;Pasivo;25/08/2023;19:09:10;0.0;0.0;0.0
+210304;Provicion por Bonificacion;1;4;2103;Pasivo;25/08/2023;19:09:36;0.0;0.0;0.0
+210305;Proviciones ISR;1;4;2103;Pasivo;25/08/2023;19:10:07;0.0;0.0;0.0
+3201;Utilidades del retenidas;1;3;32;Capital;25/08/2023;19:11:40;0.0;0.0;0.0

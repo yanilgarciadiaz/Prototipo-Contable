@@ -1,0 +1,8 @@
+EN-100;25/08/2023;2;entrada prueba;Mathew A;10000.0;25/08/2023;true
+P-0;25/08/2023;2;prueba C;Yanil;10000.0;25/08/2023;true
+FT-25;25/08/2023;5;rffft;Mathew A;600.0;25/08/2023;true
+L-0;26/08/2023;5;llll;Yanil;1000.0;26/08/2023;true
+E-0;26/08/2023;0;oooo;Yanil;1000.0;26/08/2023;true
+PRUEB-0;06/09/2023;0;AAA;Yanil;1000.0;06/09/2023;true
+3424;06/09/2023;1;poi9p8y;Yanil;1000.0;**/**/****;false
+3013;09/01/2025;0;entrada transaccion bhd;Yanil;200000.0;**/**/****;false

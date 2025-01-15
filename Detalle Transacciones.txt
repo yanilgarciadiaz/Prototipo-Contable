@@ -1,0 +1,16 @@
+EN-100;001;11021;Banco Popular Dominicano;0;10000;
+EN-100;002;520111;Gastos de sueldos Empleados;10000;0;pago mes
+P-0;001;11022;Banco BHD;10000;0;db
+P-0;002;2102;Cuentas por pagar Proveedores;0;10000;
+FT-25;001;11021;Banco Popular Dominicano;600;0;
+FT-25;002;520111;Gastos de sueldos Empleados;0;600;
+L-0;001;11023;Banco Santa Cruz;1000;0;
+L-0;002;210301;Provicion para Salario de Navidad;0;1000;
+E-0;001;520111;Gastos de sueldos Empleados;1000;0;
+E-0;002;11021;Banco Popular Dominicano;0;1000;
+PRUEB-0;001;11022;Banco BHD;1000;0;
+PRUEB-0;002;2101;Cuentas por Pagar Interfaz;0;1000;
+3424;001;11021;Banco Popular Dominicano;0;1000;
+3424;002;11022;Banco BHD;1000;0;
+3013;001;11022;Banco BHD;200000;0;por cuenta pendiente
+3013;002;11051;Cuentas Por Cobrar (Interfaz);0;200000;
